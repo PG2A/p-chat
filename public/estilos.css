@@ -1,0 +1,25 @@
+body{
+    background-image: url(./img/fondob2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container{
+    background-image: url(./img/fondb1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p{
+    color: white;
+}
+
+#msj{
+    margin-bottom: 5px;
+    font-size: medium;
+}
+
